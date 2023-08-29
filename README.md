@@ -1,1 +1,1 @@
-# Curso Git Hun
+# Curso GitHub
